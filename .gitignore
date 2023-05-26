@@ -13,5 +13,5 @@ npm-debug.log
 yarn-error.log
 /.idea
 /.vscode
-.rar
-/stv-core
+stv-core.rar
+stv-core
